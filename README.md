@@ -20,7 +20,6 @@ Currently building at the intersection of technical practice and regulatory thin
 |---|---|
 | [nlp-regulatory-text-analysis](https://github.com/meng-yanchen/nlp-regulatory-text-analysis) | NLP on the UK AI White Paper — TF-IDF, LDA topic modelling, regulatory tone analysis |
 | [ai-governance-tracker](https://github.com/meng-yanchen/ai-governance-tracker) | Mapping global AI regulations: EU AI Act, US EO, MAS guidelines, and more |
-| [financial-ai-risk-framework](https://github.com/meng-yanchen/financial-ai-risk-framework) | Applying SR 11-7 + OSFI E-23 model risk principles to AI systems |
 ---
 
 ### what i'm thinking about
