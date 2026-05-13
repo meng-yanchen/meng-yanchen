@@ -10,7 +10,7 @@ Currently building at the intersection of technical practice and regulatory thin
 🏦 &nbsp;Data & Analytics · Financial Services  
 📝 &nbsp;Writing about AI governance, data sovereignty, and cross-border data flows  
 🔭 &nbsp;Exploring: AI policy, model risk management, responsible AI frameworks  
-🐱 &nbsp;Coworker: Kuma (Ragdoll, unhelpful, beloved)
+🐱 &nbsp;Coworker: Kuma the Ragdoll (dilly dally professional)
 
 ---
 
