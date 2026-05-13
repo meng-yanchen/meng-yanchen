@@ -18,7 +18,7 @@ Currently building at the intersection of technical practice and regulatory thin
 
 | repo | what it is |
 |---|---|
-| [nlp-regulatory-text-analysis](https://github.com/meng-yanchen/nlp-regulatory-text-analysis) | NLP on the UK AI White Paper — TF-IDF, LDA topic modelling, regulatory tone analysis |
+| [nlp-regulatory-text-analysis](https://github.com/meng-yanchen/nlp_regulatory_analysis) | NLP on the UK AI White Paper — TF-IDF, LDA topic modelling, regulatory tone analysis |
 | [ai-governance-tracker](https://github.com/meng-yanchen/ai-governance-tracker) | Mapping global AI regulations: EU AI Act, US EO, MAS guidelines, and more |
 ---
 
