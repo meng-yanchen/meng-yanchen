@@ -19,6 +19,7 @@ Currently building at the intersection of technical practice and regulatory thin
 | repo | what it is |
 |---|---|
 | [nlp-regulatory-text-analysis](https://github.com/meng-yanchen/nlp_regulatory_analysis) | NLP on the UK AI White Paper — TF-IDF, LDA topic modelling, regulatory tone analysis |
+| [model-bias-audit](https://github.com/meng-yanchen/model-bias-audit) | Detecting and mitigating bias in credit scoring models under the EU AI Act and how it performs against bias assessment requirements under OSFI E-23 and SR 11-7 |
 | [ai-governance-tracker](https://github.com/meng-yanchen/ai-governance-tracker) | Mapping global AI regulations: EU AI Act, US EO, MAS guidelines, and more |
 ---
 
