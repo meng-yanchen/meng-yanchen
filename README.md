@@ -1,4 +1,4 @@
-### hi, i'm meng-yan chen 👾
+### hi, i'm meng-yan 👾
 
 I work in data and analytics — pipelines, dashboards, cloud migrations — but my brain is always half in the policy room. I care about how AI gets governed, who gets to decide, and why it matters that those decisions are made well.
 
