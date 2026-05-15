@@ -2,7 +2,7 @@
 
 I work in data and analytics — pipelines, dashboards, cloud migrations — but my brain is always half in the policy room. I care about how AI gets governed, who gets to decide, and why it matters that those decisions are made well.
 
-Currently building at the intersection of technical practice and regulatory thinking, because the people writing AI policy *should* know what a training pipeline looks like, and the people building AI systems *should* know what the EU AI Act says.
+Currently building at the intersection of technical practice and regulatory thinking, because the people writing AI policy *should* know what a training pipeline looks like, and the people building AI systems *should* know what the policies say.
 
 ---
 
